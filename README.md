@@ -1,4 +1,4 @@
-![Stats](https://github-readme-stats.vercel.app/api?username=MakarSikorskyi&show_icons=true&theme=dark#gh-dark-mode-only&count_private=true&include_all_commits=true&include_all_commits=true&rank_icon=github)
+![Stats](https://github-readme-stats.vercel.app/api?username=MakarSikorskyi&show_icons=true&theme=dark#gh-dark-mode-only&count_private=true&include_all_commits=true&rank_icon=github)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MakarSikorskyi&layout=compact&theme=dark#gh-dark-mode-only)
 
